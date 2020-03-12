@@ -1,0 +1,2 @@
+(this["webpackJsonpdynamic-components"]=this["webpackJsonpdynamic-components"]||[]).push([[0],{18:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return r}));var c=e(1),a=e.n(c),s=e(2);function r(){function n(){return(n=Object(s.a)(a.a.mark((function n(){return a.a.wrap((function(n){for(;;)switch(n.prev=n.next){case 0:return n.next=2,e.e(2).then(e.bind(null,14));case 2:n.sent.default();case 4:case"end":return n.stop()}}),n)})))).apply(this,arguments)}!function(){n.apply(this,arguments)}()}}}]);
+//# sourceMappingURL=banra.f8c2f45f.chunk.js.map

@@ -1,0 +1,32 @@
+{
+  "files": {
+    "banra.js": "/static/js/banra.f8c2f45f.chunk.js",
+    "banra.js.map": "/static/js/banra.f8c2f45f.chunk.js.map",
+    "banra-nested.js": "/static/js/banra-nested.8024db3a.chunk.js",
+    "banra-nested.js.map": "/static/js/banra-nested.8024db3a.chunk.js.map",
+    "banra-nested-l1.js": "/static/js/banra-nested-l1.eac54208.chunk.js",
+    "banra-nested-l1.js.map": "/static/js/banra-nested-l1.eac54208.chunk.js.map",
+    "banra-nested-l2.js": "/static/js/banra-nested-l2.22fd4bf2.chunk.js",
+    "banra-nested-l2.js.map": "/static/js/banra-nested-l2.22fd4bf2.chunk.js.map",
+    "banra-nested-l3.js": "/static/js/banra-nested-l3.b9116097.chunk.js",
+    "banra-nested-l3.js.map": "/static/js/banra-nested-l3.b9116097.chunk.js.map",
+    "main.css": "/static/css/main.d1b05096.chunk.css",
+    "main.js": "/static/js/main.9b3eea20.chunk.js",
+    "main.js.map": "/static/js/main.9b3eea20.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1c62d612.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1c62d612.js.map",
+    "static/js/7.42d1b0c4.chunk.js": "/static/js/7.42d1b0c4.chunk.js",
+    "static/js/7.42d1b0c4.chunk.js.map": "/static/js/7.42d1b0c4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ec38a8500440a26c2de7b84e4d072005.js": "/precache-manifest.ec38a8500440a26c2de7b84e4d072005.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/static/css/main.d1b05096.chunk.css.map",
+    "static/js/7.42d1b0c4.chunk.js.LICENSE.txt": "/static/js/7.42d1b0c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c62d612.js",
+    "static/js/7.42d1b0c4.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9b3eea20.chunk.js"
+  ]
+}

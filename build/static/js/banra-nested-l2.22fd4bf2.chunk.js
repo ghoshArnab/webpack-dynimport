@@ -1,0 +1,2 @@
+(this["webpackJsonpdynamic-components"]=this["webpackJsonpdynamic-components"]||[]).push([[3],{15:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return r}));var c=e(1),a=e.n(c),s=e(2);function r(){function n(){return(n=Object(s.a)(a.a.mark((function n(){return a.a.wrap((function(n){for(;;)switch(n.prev=n.next){case 0:return n.next=2,e.e(4).then(e.bind(null,16));case 2:n.sent.default();case 4:case"end":return n.stop()}}),n)})))).apply(this,arguments)}!function(){n.apply(this,arguments)}()}}}]);
+//# sourceMappingURL=banra-nested-l2.22fd4bf2.chunk.js.map

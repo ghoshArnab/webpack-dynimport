@@ -1,0 +1,2 @@
+(this["webpackJsonpdynamic-components"]=this["webpackJsonpdynamic-components"]||[]).push([[1],{17:function(n,o,t){"use strict";function e(){console.log("from nested component 2"),document.getElementById("showComponents").textContent="hello"}t.r(o),t.d(o,"default",(function(){return e}))}}]);
+//# sourceMappingURL=banra-nested.8024db3a.chunk.js.map
